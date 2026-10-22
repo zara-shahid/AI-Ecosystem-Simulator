@@ -1,6 +1,7 @@
 # 🧠 AI Ecosystem Simulator
 ## Emergent Cooperation in Multi-Agent Reinforcement Learning
 
+
 A real-time multi-agent reinforcement learning system where **100 autonomous AI agents** learn survival strategies and **discover cooperation organically**—without any hard-coded social rules.
 
 This project demonstrates how complex social behaviors such as **cooperation, alliance formation, trust, and reciprocity** can emerge purely from **self-interested reward optimization**, mirroring patterns observed in human societies.
